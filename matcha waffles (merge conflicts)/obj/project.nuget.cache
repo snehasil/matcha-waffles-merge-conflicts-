@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yqnLug6AJqlARuzml9qIiufuBDE5IdboPT1CkbI9hpnrJLtcXeA1Z8TRebK6Val2AYGagkml+Y79EiMe7NIyeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sneha\\Desktop\\CTW 2021 Repositories\\matcha waffles (merge conflicts)\\matcha waffles (merge conflicts)\\matcha waffles (merge conflicts).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sneha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
